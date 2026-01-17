@@ -1,0 +1,11 @@
+{
+    "Name": "Audio Converter",
+    "Version": "0.1.0",
+    "CompatVersion": "0.1.0",
+    "Author": "Fooyin Contributors",
+    "Copyright": "© 2026",
+    "License": "GPL-3.0",
+    "Description": "Convert audio files between formats using dedicated codec tools (FLAC, LAME, Opus, OggVorbis)",
+    "Url": "https://github.com/fooyin/fooyin-converter",
+    "Category": "Tools"
+}
