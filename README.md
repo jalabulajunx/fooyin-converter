@@ -1,3 +1,5 @@
+**NOTE: ** This project was completely written by AI. It doesn't prove anything except for the fact that it helps me in finding alternative for my workflow. If this helps, go ahead and use it as you like.
+
 # Fooyin Audio Converter Plugin
 
 A lightweight audio conversion plugin for [Fooyin music player](https://github.com/ludouzi/fooyin) that uses dedicated codec executables for high-quality audio format conversion.
